@@ -4,7 +4,7 @@ This Solidity program is a simple contract called FrontendProject with four (4) 
 
 ## Description
 
-This program comprises a straightforward contract coded in Solidity, a language tailored for creating smart contracts on the Ethereum blockchain. The contract contains four functions designed to test wallet connection to dApp, setAge in number, setName in string, and fetch/get this data functionalities. Additionally, a frontend interface has been incorporated for user convenience.
+This program comprises a straightforward contract coded in Solidity, a language tailored for creating smart contracts on the Ethereum blockchain. The contract contains four functions designed to test wallet connection to dApp, setAmount in number, setName in string, and fetch/get this data functionalities. Additionally, a frontend interface has been incorporated for user convenience.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ To run the code on your local machine, follow these steps after cloning the GitH
 
 
 ## Authors
-- Samuel Adedayo
+- Ifeoluwa Sanni
 
 ## License
 
@@ -31,4 +31,5 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for de
 
 ## Video-link
 
-Video walk through can be found at: https://www.loom.com/share/5bdbac606468461a8cc75ed135480f50?sid=6c6e5a15-da8f-42a3-83bb-9439089ce40b
+Video walk through can be found at: 
+https://www.loom.com/share/99e56e4a83074ac888c8fb28733e2709?sid=9c63a3f3-408e-4cc5-a7a0-7a79be4c75f5
